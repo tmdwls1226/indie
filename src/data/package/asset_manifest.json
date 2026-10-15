@@ -1,0 +1,486 @@
+{
+  "assets": [
+    {
+      "id": "slash",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/slash.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "slash",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/slash.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "heavy_strike",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/heavy_strike.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "heavy_strike",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/heavy_strike.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "whirlwind",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/whirlwind.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "whirlwind",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/whirlwind.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "charge",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/charge.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "charge",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/charge.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "sword_burst",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/sword_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "sword_burst",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/sword_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "defensive_stance",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/defensive_stance.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "defensive_stance",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/defensive_stance.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_guard",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/holy_guard.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_guard",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/holy_guard.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "judgment_strike",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/judgment_strike.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "judgment_strike",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/judgment_strike.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "dark_power",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/dark_power.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "dark_power",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/dark_power.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "blood_blade",
+      "class": "fighter",
+      "kind": "icon",
+      "path": "/assets/skills/fighter/blood_blade.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "blood_blade",
+      "class": "fighter",
+      "kind": "effect",
+      "path": "/assets/effects/fighter/blood_blade.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "fireball",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/fireball.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "fireball",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/fireball.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "ice_spear",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/ice_spear.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "ice_spear",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/ice_spear.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "lightning",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/lightning.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "lightning",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/lightning.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "meteor",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/meteor.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "meteor",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/meteor.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "mana_burst",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/mana_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "mana_burst",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/mana_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "poison_cloud",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/poison_cloud.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "poison_cloud",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/poison_cloud.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "curse",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/curse.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "curse",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/curse.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "time_stop",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/time_stop.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "time_stop",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/time_stop.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "haste",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/haste.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "haste",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/haste.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "mana_eruption",
+      "class": "mage",
+      "kind": "icon",
+      "path": "/assets/skills/mage/mana_eruption.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "mana_eruption",
+      "class": "mage",
+      "kind": "effect",
+      "path": "/assets/effects/mage/mana_eruption.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "heal",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/heal.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "heal",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/heal.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "group_heal",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/group_heal.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "group_heal",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/group_heal.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_light",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/holy_light.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_light",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/holy_light.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "revive",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/revive.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "revive",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/revive.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "blessing",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/blessing.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "blessing",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/blessing.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "shield",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/shield.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "shield",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/shield.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "purify",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/purify.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "purify",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/purify.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_judgment",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/holy_judgment.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_judgment",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/holy_judgment.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "spear_of_light",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/spear_of_light.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "spear_of_light",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/spear_of_light.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_burst",
+      "class": "cleric",
+      "kind": "icon",
+      "path": "/assets/skills/cleric/holy_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    },
+    {
+      "id": "holy_burst",
+      "class": "cleric",
+      "kind": "effect",
+      "path": "/assets/effects/cleric/holy_burst.png",
+      "status": "not_generated",
+      "format": "transparent_png"
+    }
+  ],
+  "referenceImage": "reference/job_skills_reference.png",
+  "warning": "Reference is a composite infographic, not individual transparent PNG sprites."
+}

@@ -1,0 +1,202 @@
+{
+  "maxLevel": 100,
+  "advancementMilestones": [
+    10,
+    30,
+    70,
+    100
+  ],
+  "skillSlots": [
+    {
+      "level": 1,
+      "slots": 2
+    },
+    {
+      "level": 10,
+      "slots": 3
+    },
+    {
+      "level": 30,
+      "slots": 4
+    },
+    {
+      "level": 70,
+      "slots": 5
+    },
+    {
+      "level": 100,
+      "slots": 6
+    }
+  ],
+  "jobs": [
+    {
+      "id": "fighter_base",
+      "name": "검사",
+      "class": "fighter",
+      "level": 1,
+      "parent": null
+    },
+    {
+      "id": "sword_saint",
+      "name": "검성",
+      "class": "fighter",
+      "level": 10,
+      "parent": "fighter_base"
+    },
+    {
+      "id": "guardian",
+      "name": "수호기사",
+      "class": "fighter",
+      "level": 10,
+      "parent": "fighter_base"
+    },
+    {
+      "id": "sword_emperor",
+      "name": "검황",
+      "class": "fighter",
+      "level": 30,
+      "parent": "sword_saint"
+    },
+    {
+      "id": "bulwark",
+      "name": "성벽기사",
+      "class": "fighter",
+      "level": 30,
+      "parent": "guardian"
+    },
+    {
+      "id": "heavenly_sword",
+      "name": "천검제",
+      "class": "fighter",
+      "level": 70,
+      "parent": "sword_emperor"
+    },
+    {
+      "id": "immortal_guardian",
+      "name": "불멸의 수호왕",
+      "class": "fighter",
+      "level": 70,
+      "parent": "bulwark"
+    },
+    {
+      "id": "mage_base",
+      "name": "원소술사",
+      "class": "mage",
+      "level": 1,
+      "parent": null
+    },
+    {
+      "id": "pyromancer",
+      "name": "화염술사",
+      "class": "mage",
+      "level": 10,
+      "parent": "mage_base"
+    },
+    {
+      "id": "cryomancer",
+      "name": "빙결술사",
+      "class": "mage",
+      "level": 10,
+      "parent": "mage_base"
+    },
+    {
+      "id": "storm_mage",
+      "name": "뇌전술사",
+      "class": "mage",
+      "level": 10,
+      "parent": "mage_base"
+    },
+    {
+      "id": "crimson_archmage",
+      "name": "홍련대마도사",
+      "class": "mage",
+      "level": 30,
+      "parent": "pyromancer"
+    },
+    {
+      "id": "absolute_zero",
+      "name": "절대영도",
+      "class": "mage",
+      "level": 30,
+      "parent": "cryomancer"
+    },
+    {
+      "id": "thunder_archmage",
+      "name": "천뢰마도사",
+      "class": "mage",
+      "level": 30,
+      "parent": "storm_mage"
+    },
+    {
+      "id": "solar_sage",
+      "name": "태양의 대현자",
+      "class": "mage",
+      "level": 70,
+      "parent": "crimson_archmage"
+    },
+    {
+      "id": "glacier_lord",
+      "name": "빙하의 군주",
+      "class": "mage",
+      "level": 70,
+      "parent": "absolute_zero"
+    },
+    {
+      "id": "sky_thunder_god",
+      "name": "천공의 뇌신",
+      "class": "mage",
+      "level": 70,
+      "parent": "thunder_archmage"
+    },
+    {
+      "id": "cleric_base",
+      "name": "사제",
+      "class": "cleric",
+      "level": 1,
+      "parent": null
+    },
+    {
+      "id": "inquisitor",
+      "name": "심판관",
+      "class": "cleric",
+      "level": 10,
+      "parent": "cleric_base"
+    },
+    {
+      "id": "high_priest",
+      "name": "대사제",
+      "class": "cleric",
+      "level": 10,
+      "parent": "cleric_base"
+    },
+    {
+      "id": "celestial_inquisitor",
+      "name": "성천심판관",
+      "class": "cleric",
+      "level": 30,
+      "parent": "inquisitor"
+    },
+    {
+      "id": "sanctuary_high_priest",
+      "name": "성역의 대사제",
+      "class": "cleric",
+      "level": 30,
+      "parent": "high_priest"
+    },
+    {
+      "id": "heavenly_judge",
+      "name": "천상의 심판자",
+      "class": "cleric",
+      "level": 70,
+      "parent": "celestial_inquisitor"
+    },
+    {
+      "id": "life_oracle",
+      "name": "생명의 여신관",
+      "class": "cleric",
+      "level": 70,
+      "parent": "sanctuary_high_priest"
+    }
+  ],
+  "notes": "100레벨 전직 명칭/후속 분기는 기존 확정 자료 확인 후 추가. 이미지에 나온 블레이드 마스터/팔라딘/다크나이트 등은 기존 설정과 충돌하므로 미채택."
+}
